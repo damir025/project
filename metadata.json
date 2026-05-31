@@ -1,0 +1,11 @@
+{
+    "name": "Визуальный ИИ-помощник",
+    "description": "Интеллектуальный визуальный ассистент для людей с нарушениями зрения. Чтение текстов, чеков, таблиц и распознавание объектов с голосовым управлением.",
+    "requestFramePermissions": [
+      "camera"
+    ],
+    "majorCapabilities": [
+      "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+    ]
+  }
+  
