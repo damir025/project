@@ -627,7 +627,7 @@ export default function App() {
           </div>
           
           <div className="text-center pt-4 border-t border-zinc-900 text-xs text-zinc-500 font-semibold uppercase tracking-wider font-mono">
-            Визуальный ИИ-помощник с синтезом речи. Разработано при поддержке ИИ модели Gemini 3.5 Flash.
+  
           </div>
         </footer>
 
